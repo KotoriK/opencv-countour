@@ -1,0 +1,31 @@
+{
+  "name": "opencv-countour",
+  "version": "1.0.0",
+  "description": "Utils for finding countour using OpenCV",
+  "main": "dist/opencv-countour.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ol": "7.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "4.1.3",
+    "vite-plugin-dts": "2.0.0-beta.3",
+    "vite-plugin-solid": "2.5.0",
+    "solid-js": "1.6.11"
+  },
+  "optionalDependencies": {
+    "ol": "7.2.2"
+  },
+  "keywords": [
+    "opencv",
+    "countour",
+    "types",
+    "geometry",
+    "floodfill"
+  ]
+}
